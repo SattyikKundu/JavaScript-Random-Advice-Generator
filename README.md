@@ -1,5 +1,5 @@
-# Mixed Messages JavaScript Project
-- This JavaScript program generates random messages every time the user runs the program.
+# Mixed Messages — JavaScript Random Advice Generator
+- This JavaScript program generates random advice messages every time the user runs the program.
 - For my version of the "Mixed Messages" program: Every time user runs the program, it returns 3 pieces
 of random life advice for the user (one for workplace advice, one for financial advice, and one for health advice).
 
